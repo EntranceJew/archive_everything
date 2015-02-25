@@ -1,0 +1,8 @@
+{
+  "name": "archive_everything",
+  "title": "Archive Everything",
+  "id": "jid1-kYl3czNOLvTytg",
+  "description": "Archives all open tabs and puts the urls with the old page title in your clipboard.",
+  "author": "EntranceJew",
+  "version": "0.1"
+}
